@@ -51,7 +51,7 @@ ARROW LEFT/RIGHT: Turning
 Maps have to be of the **.cub** extension!
 
 Configuration is saved as:
-- Resolution: "R: *res_x res_y*"
+- Resolution: "R *res_x res_y*"
 - North texture: "NO *path_to_texture*"
 - South texture: "SO *path_to_texture*"
 - West texture: "WE *path_to_texture*"
