@@ -59,6 +59,7 @@ Configuration is saved as:
 - Sprite texture: "S *path_to_texture*"
 - Floor color: "F *colorcode in RGB*"
 - Ceiling color: "C *colorcode in RGB*"
+- 
 Information can be in any order with newlines in between. Configuration has to be in front of map, and once the map starts all information is needed.
 
 #### Maps
