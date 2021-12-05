@@ -32,7 +32,7 @@ The project is part of the [Codam](https://www.codam.nl/studying-at-codam) curri
    ```
 * Run as a game with a of your choice (must have the .cub extension)
    ```console
-   ./cub3D path_to_map
+   ./cub3D path_to_map.cub
    ```
    
  **Screenshot**
